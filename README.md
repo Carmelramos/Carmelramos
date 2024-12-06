@@ -49,6 +49,10 @@ Aqui você encontrará meus projetos, estudos e tudo que estou aprendendo na min
 
 ---
 
+<img src="https://raw.githubusercontent.com/Carmelramos/Carmelramos/output/snake.svg" alt="Snake animation" />
+
+---
+
 👀 **Curioso(a) para saber mais?** Explore meus repositórios e fique à vontade para dar sugestões e contribuir. 🚀  
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F71334&width=435&lines=Obrigada+pela+visita+e+volte+sempre!)](https://git.io/typing-svg)
