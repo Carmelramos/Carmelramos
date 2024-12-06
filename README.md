@@ -1,6 +1,4 @@
-# Olá, me chamo Carmel! 🖐️✨
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá+me+chamo+Carmel;Seja+bem-+vindo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=F71334&width=435&lines=Ol%C3%A1%2C+me+chamo+Carmel+Ramos!;Vamos+nos+conectar%3F!)](https://git.io/typing-svg)
 
 Seja muito bem-vindo(a) ao meu perfil no GitHub! 🚀  
 Aqui você encontrará meus projetos, estudos e tudo que estou aprendendo na minha jornada de migração para a área de tecnologia!  
