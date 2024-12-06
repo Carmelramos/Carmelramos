@@ -1,16 +1,37 @@
-## Hi there 👋
+# Olá, me chamo Carmel! 🖐️✨
 
-<!--
-**Carmelramos/Carmelramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seja muito bem-vindo(a) ao meu perfil no GitHub! 🚀  
+Aqui você encontrará meus projetos, estudos e tudo que estou aprendendo na minha jornada de migração para a área de tecnologia!  
 
-Here are some ideas to get you started:
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Bem-vindo" width="500"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 Sobre mim
+
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (2º semestre).  
+- ☁️ Certificada em **AWS Cloud Practitioner** e apaixonada por aprender sobre nuvem.  
+- 🌐 Explorando o universo do **Desenvolvimento Web** com foco em **Front-End**.  
+- 🛠️ Aprendendo tecnologias como **HTML**, **CSS**, **JavaScript**, **Bootstrap** e AWS.  
+
+---
+
+## 💡 O que você encontrará aqui:
+
+📁 **Projetos Web** — Aplicações simples que mostram minha evolução no desenvolvimento.  
+☁️ **Estudos de Cloud Computing** — Explorando soluções em nuvem e boas práticas.  
+📘 **Desafios e Estudos** — Experimentando novas ferramentas e expandindo habilidades.  
+
+---
+
+## 🤝 Vamos nos conectar?
+
+💌 [Me envie um e-mail](mailto:carmelramos@gmail.com)  
+📌 [Veja meu LinkedIn](https://linkedin.com/in/carmel-ramos)  
+
+---
+
+👀 **Curioso(a) para saber mais?** Explore meus repositórios e fique à vontade para dar sugestões e contribuir. 🚀  
+
+**Obrigado pela visita e volte sempre!**  
+
